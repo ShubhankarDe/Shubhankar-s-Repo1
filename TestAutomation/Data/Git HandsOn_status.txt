@@ -1,7 +1,7 @@
 git config --global user.email "username" - done
 git config --global user.name "name" - done
 git init - done
-git clone  - 
+git clone "url"  - done 
 git status - done
 git add -A   - done
 git commit -a   - done
